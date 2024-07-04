@@ -1,7 +1,7 @@
 # GuessNumberGame
 
 ## Description
-A simple Java console application where users guess a randomly generated number.
+"GuessNumberGame" is a simple and interactive Java console application where users try to guess a randomly generated number between 1 and 100. The game provides feedback on whether the user's guess is too high, too low, or correct, encouraging iterative guessing until the correct number is found. This fun and educational game helps improve problem-solving skills and understanding of basic control flow in Java.
 
 ## How to Play
 1. The program will generate a random number between 1 and 100.
